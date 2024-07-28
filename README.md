@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This repository serves as the main hub for my projects. Below is a detailed guide on how it is used, documentation, branching strategy, .gitignore usage, and handling of credentials and sensitive information.
+This repository serves as the main hub for my projects. Below is a detailed guide on which Repository it uses, documentation, branching strategy, .gitignore usage, and handling of credentials and sensitive information.
 
 # Repositories
 
