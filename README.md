@@ -19,7 +19,7 @@ A comprehensive lean technical document can be found:
 https://github.com/NWU-CMPG323-2024/project-1-SelloNkitseng/blob/main/Lean%20Technical%20Documentation%20Template%201.0.docx  
 
 Burndown chart can be found:
-
+https://github.com/NWU-CMPG323-2024/project-1-SelloNkitseng/blob/main/Burndown%20chart.xlsx  
 
 # Branching Strategy
 
