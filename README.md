@@ -16,7 +16,7 @@ This repository serves as the main hub for my projects. Below is a detailed guid
 # Documentation
 
 A comprehensive lean technical document can be found: 
-https://github.com/SelloNkitseng/CMPG-323-Overview---30776538/blob/main/Lean%20Technical%20Documentation%20Template%201.0.docx  
+https://github.com/NWU-CMPG323-2024/project-1-SelloNkitseng/blob/main/Lean%20Technical%20Documentation%20Template%201.0.docx  
 
 # Branching Strategy
 
